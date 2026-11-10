@@ -21,3 +21,10 @@ Aparelhos de áudio no navegador. / Audio machines in the browser.
 - [prototipos](https://github.com/dcxaudio/prototipos): protótipos e experimentos. / Prototypes and experiments.
 
 Projetos independentes, inspirados em equipamentos clássicos; nomes de terceiros aparecem só como referência, sem vínculo com os fabricantes. / Independent projects inspired by classic gear; third-party names are references only, with no affiliation.
+
+
+---
+
+Projeto independente, sem vínculo com os fabricantes dos equipamentos que inspiraram as máquinas. Os nomes SP-1200, SP-404, S950 e 1202 pertencem a seus donos e aparecem só em texto, como referência.
+
+*Independent project, not affiliated with the makers of the gear that inspired the machines; names belong to their owners and appear as text only, for reference.*
